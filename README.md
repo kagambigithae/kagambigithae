@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Kagambi Githae, and I enjoy solving problems that help customers succeed.  ⚡ Fun fact: I enjoy solving some random Math problems to keep me occupied.
+
+
 <!--
 **kagambigithae/kagambigithae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
