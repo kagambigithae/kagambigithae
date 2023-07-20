@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kagambi Githae, and I enjoy solving problems that help customers succeed.  ⚡ Fun fact: I enjoy reading Human Psychology and Economics books to keep me occupied.
+My name is Kagambi Githae, and I enjoy solving problems that bring impact to people.  ⚡ Fun fact: I enjoy reading Human Psychology and Economics books to keep me occupied.
 
 
 <!--
