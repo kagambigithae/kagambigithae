@@ -1,12 +1,12 @@
 # Engineering Leadership & Architecture
 
-**George Kagambi**, Senior Software Engineering Manager & Solution Architect \
-<https://www.linkedin.com/in/georgekagambi> | <tiasho.kagambi@gmail.com>
 
 
-## Executive Summary
+## Summary
 
-I specialise in architecting resilient, offline-first distributed systems for emerging markets. My focus is on decoupling legacy monoliths into scalable microservices and aligning technical strategy with revenue goals. Below are select architectural case studies from my recent work.
+I specialise in architecting resilient, offline-first distributed systems for emerging markets. My focus is on decoupling legacy monoliths into scalable microservices and aligning technical strategy with revenue goals. 
+
+Below are select architectural case studies from my recent work.
 
 
    
