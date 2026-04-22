@@ -4,13 +4,13 @@
 
 ## Summary
 
-I specialise in architecting resilient, offline-first distributed systems for emerging markets. My focus is on decoupling legacy monoliths into scalable microservices and aligning technical strategy with revenue goals. 
+In the last 2 years, I've specialised in architecting resilient, offline-first distributed systems for emerging markets. My focus being on decoupling legacy monoliths into scalable microservices and aligning technical strategy with revenue goals. 
 
-Below are select architectural case studies from my recent work.
+Below, I highlight a select group of architectural projects from my recent work.
 
 
    
-## Case Study 1: Scaling IoT Payments in Low-Bandwidth Environments
+## Project 1: Scaling IoT Payments in Low-Bandwidth Environments
 
 **Role:** Lead Solution Architect & Senior Engineering Manager
 
@@ -61,7 +61,7 @@ sequenceDiagram
 ```
 
    
-## Case Study 2: Revenue Assurance & Carbon Credit Auditability
+## Project 2: Revenue Assurance & Carbon Credit Auditability
 
 **Role:** Engineering Lead
 
@@ -96,7 +96,7 @@ flowchart LR
 ```
 
     
-## Case Study 3: The "One Team" Distributed Engineering Culture
+## Project 3: The "One Team" Distributed Engineering Culture
 
 **Role:** Senior Engineering Manager
 
