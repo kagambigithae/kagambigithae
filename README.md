@@ -89,9 +89,9 @@ Leadership, to me, is applied psychology at scale.
 
 ### AI & Industry Contributions
 Contributor to the nexbax AI adoption framework, a research initiative involving IBM Fellows exploring practical approaches to measuring organizational AI adoption and maturity.
-  📖 arXiv Paper: https://arxiv.org/abs/2606.00359
-  📰 The Hindu Feature: https://thehindu.com/news/national/karnataka/nexbax-ai-index-to-redefine-ai-adoption-in-india/article71038142.ece
-  🌐 Project Website: https://nexbax.github.io/
+* 📖 arXiv Paper: https://arxiv.org/abs/2606.00359
+* 📰 The Hindu Feature: https://thehindu.com/news/national/karnataka/nexbax-ai-index-to-redefine-ai-adoption-in-india/article71038142.ece
+* 🌐 Project Website: https://nexbax.github.io/
 ---
 
 ### 🌱 What I’m Exploring
