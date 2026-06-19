@@ -2,9 +2,9 @@
 
 Operational Technology Leadership — On-Demand
 
-Kagambi Githae
+### Kagambi Githae
 Senior Engineering Leader & Solution Architect
-Web: kagambigithae.com | Email: kagambi@kagambigithae.com | WhatsApp: +254 700 876816
+`Web: kagambigithae.com | Email: kagambi@kagambigithae.com | WhatsApp: +254 700 876816`
 
 ## 1. THE CORE VALUE PROPOSITIO
   
@@ -73,7 +73,7 @@ To give organizations complete control over their budgets and deployment timelin
 ## 5. IDEAL PARTNERS & NEXT STEPS
   
 
-Ideal Partners:
+### Ideal Partners:
 
 - Established SMEs modernizing manual operational systems
   
@@ -87,7 +87,7 @@ Ideal Partners:
 Let’s Skip the Lengthy Introductory Meetings.
 If your engineering delivery is slowing down or you are auditing a critical software asset, we start with a confidential, 25-minute diagnostic call to cut through the noise and isolate your highest-leverage operational risks.
 
-Contact & Channels:
+### Contact & Channels:
 
 - LinkedIn: linkedin.com/in/kagambigithae
   
