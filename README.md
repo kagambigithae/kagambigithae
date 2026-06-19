@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://kagambigithae.com/">
-  <img src="https://img.shields.io/badge/%20my%20wwebsite%20-20B2AA?style=for-the-badge&logo=web" />
+  <img src="https://img.shields.io/badge/%20kagambigithae%20.com%20-20B2AA?style=for-the-badge&logo=web" />
   </a>
 
   <br />
