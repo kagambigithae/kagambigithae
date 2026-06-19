@@ -60,7 +60,7 @@ I provide fractionally deployed, high-leverage technical leadership and independ
 2. **2-Week Engineering Health Checks:** Structural deep-dives into team delivery velocity, workflow blocks, and architectural debt prioritizing.
 3. **Fractional CTO & Owner's Representation:** Ongoing asynchronous advisory covering architecture governance, technology roadmapping, and strict third-party vendor accountability.
 
-🔗 **[Explore my complete Consulting Capability Deck here](./baobab_labs.md)**
+🔗 **[Explore my complete Consulting Capability here](./baobab_labs.md)**
 
 ---
 
