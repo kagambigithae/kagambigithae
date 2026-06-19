@@ -1,4 +1,4 @@
-BAOBAB LABS
+# BAOBAB LABS
 
 Operational Technology Leadership — On-Demand
 
@@ -6,7 +6,7 @@ Kagambi Githae
 Senior Engineering Leader & Solution Architect
 Web: kagambigithae.com | Email: kagambi@kagambigithae.com | WhatsApp: +254 700 876816
 
-1. THE CORE VALUE PROPOSITIO
+## 1. THE CORE VALUE PROPOSITIO
   
 
 Helping growing African businesses untangle operational bottlenecks before technology becomes the exact thing slowing down their growth—delivered through high-leverage, fractionally deployed leadership.
@@ -18,7 +18,7 @@ Throughout my career, I have directed engineering squads responsible for mission
 
 I do not look at technology as just lines of code. I view it strictly as an operational engine—one designed to eliminate operational leakage, enforce team accountability, and protect a business's bottom line as it scales.
 
-2. THE DIAGNOSTIC: PROBLEMS I STEP IN TO SOLVE
+## 2. THE DIAGNOSTIC: PROBLEMS I STEP IN TO SOLVE
   
 
 If your organization is experiencing any of the following systemic friction points, I step in to diagnose and stabilize the operation:
@@ -34,31 +34,31 @@ If your organization is experiencing any of the following systemic friction poin
 - Legacy & AI Modernization Pressure: Fragmented, manual workflows that require modern cloud-native restructuring, real-time automation, or pragmatic, non-hype AI implementation.
   
 
-3. ENGAGEMENT LEVELS: HOW WE COLLABORATE
+## 3. ENGAGEMENT LEVELS: HOW WE COLLABORATE
   
 
 To give organizations complete control over their budgets and deployment timelines, my consulting services are structured into three distinct execution levels:
 
-*LEVEL 1: THE RECONNAISSANCE (Rapid Diagnostics)*
+### *LEVEL 1: THE RECONNAISSANCE (Rapid Diagnostics)*
 
 - **48-Hour Systems & Integration Audit (Fixed-Fee):** A rapid, high-intensity evaluation of your active production servers, system middleware, and payment flows. Delivers a direct, executive-ready "Go/No-Pay" advisory report detailing immediate system vulnerabilities and a remediation roadmap.
   
 
-*LEVEL 2: THE BLUEPRINT (Fixed-Scope Frameworks)*
+### *LEVEL 2: THE BLUEPRINT (Fixed-Scope Frameworks)*
 
 - **2-Week Engineering Health Check:** A deep-dive structural assessment of your engineering delivery cycles, team communication logic, and internal developer workflows. Delivers a developer-ready technical blueprint, database schema optimizations, and structural delivery templates.
   
 - **Independent Technical Due Diligence:** Comprehensive, multi-dimensional technical audits for founders, corporate operators, and investors looking to accurately evaluate software asset quality, infrastructure leakage, and scalability risks before capital deployment.
   
 
-*LEVEL 3: THE ENGINE (Fractional Retainers)*
+### *LEVEL 3: THE ENGINE (Fractional Retainers)*
 
 - Fractional CTO & Strategic Advisory (Retainer-Based): Multi-month, asynchronous executive-level technical oversight. I plug into your leadership team for a dedicated number of hours per week to guide your architecture, lead engineering processes, screen high-level technical hires, and stabilize delivery cadences.
   
 - Owner’s Representative / Fractional TPM: Direct, independent technical management overseeing external development agencies or internal engineering squads to enforce total vendor accountability and prevent milestone drift.
   
 
-4. THE PROVEN RECORD
+## 4. THE PROVEN RECORD
   
 
 - 10+ Years of Regional Execution: A decade of deploying distributed software architectures, managing agile cross-border squads, and leading engineering turnarounds within African tech ecosystems.
@@ -70,7 +70,7 @@ To give organizations complete control over their budgets and deployment timelin
 - Zero Technical Fluff: Every architectural decision is filtered strictly through financial pragmatism—cutting infrastructure spend leakage, ensuring high-availability uptime, and driving operational efficiency.
   
 
-5. TARGET TARGET AUDIENCE & NEXT STEPS
+## 5. IDEAL PARTNERS & NEXT STEPS
   
 
 Ideal Partners:
