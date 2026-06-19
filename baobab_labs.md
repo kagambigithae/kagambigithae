@@ -4,6 +4,7 @@ Operational Technology Leadership — On-Demand
 
 ### Kagambi Githae
 Senior Engineering Leader & Solution Architect
+
 `Web: kagambigithae.com | Email: kagambi@kagambigithae.com | WhatsApp: +254 700 876816`
 
 ## 1. THE CORE VALUE PROPOSITIO
