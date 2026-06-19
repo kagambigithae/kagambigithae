@@ -51,6 +51,19 @@ If it touches real-world operations and has business impact, I'm interested.
 
 ---
 
+### 💼 Technical Consulting & Advisory
+
+I provide fractionally deployed, high-leverage technical leadership and independent systems auditing for growing businesses, startups, and founders through **Baobab Labs**. 
+
+#### How We Can Collaborate:
+1. **48-Hour Systems & Integration Audits:** Rapid, fixed-fee technical risk analysis and infrastructure bottleneck diagnostics.
+2. **2-Week Engineering Health Checks:** Structural deep-dives into team delivery velocity, workflow blocks, and architectural debt prioritizing.
+3. **Fractional CTO & Owner's Representation:** Ongoing asynchronous advisory covering architecture governance, technology roadmapping, and strict third-party vendor accountability.
+
+🔗 **[Explore my complete Consulting Capability Deck here](./baobab_labs.md)**
+
+---
+
 ### 🧮 How I Think
 * Longevity > quick hacks
 * Observability is not optional
