@@ -95,10 +95,8 @@ Contributor to the nexbax AI adoption framework, a research initiative involving
 ---
 
 ### 🌱 What I’m Exploring
-* Engineering Manager / Senior EM / Solution Architect roles
-* Technical leadership, preferably in climate-tech or financial inclusion
-* Platform architecture at meaningful scale
-* Global teams solving non-trivial problems
+* Engineering leadership roles
+* Technical consultancy and advisory roles
 
 ---
 
