@@ -92,11 +92,11 @@ If your engineering delivery is slowing down or you are auditing a critical soft
 
 - LinkedIn: linkedin.com/in/kagambigithae
   
-- Web / Studio Portal: kagambigithae.com
+- We: kagambigithae.com
   
-- Direct Asynchronous Inbox: kagambi@kagambigithae.com
+- Email: kagambi@kagambigithae.com
   
-- Secure WhatsApp Business Line: +254 700 876816
+- WhatsApp: +254 700 876816
   
 
 *All inbound project scoping documents and technical inquiries are personally reviewed asynchronously within 24 hours.*
